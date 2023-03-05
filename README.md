@@ -6,3 +6,7 @@ All the modifications for the inventory was in the extended, youu can use this o
 Don't forget to configure the script in config.lua
 
 Apart from the modifications for the inventory, the extended is entirely original
+
+https://buy.quasar-store.com/category/1930600
+
+https://docs.quasar-store.com/esx/inventory/installations
